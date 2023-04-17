@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/vijay/OneDrive/Desktop/Project/californiahousepricing/vspy\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
